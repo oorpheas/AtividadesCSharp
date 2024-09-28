@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fefeu\\source\\AtividadesCSharp\\Lista 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F40D050-EF53-4842-948B-87D525D8D4BE}|Task 19\\Task 19.csproj|c:\\users\\fefeu\\source\\atividadescsharp\\lista 1\\task 19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F40D050-EF53-4842-948B-87D525D8D4BE}|Task 19\\Task 19.csproj|solutionrelative:task 19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D09A3E9-3776-4D3D-A22D-4FD640CDE5AD}|Task 18\\Task 18.csproj|c:\\users\\fefeu\\source\\atividadescsharp\\lista 1\\task 18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D09A3E9-3776-4D3D-A22D-4FD640CDE5AD}|Task 18\\Task 18.csproj|solutionrelative:task 18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fefeu\\source\\AtividadesCSharp\\Lista 1\\Task 19\\Program.cs",
+              "RelativeDocumentMoniker": "Task 19\\Program.cs",
+              "ToolTip": "C:\\Users\\fefeu\\source\\AtividadesCSharp\\Lista 1\\Task 19\\Program.cs*",
+              "RelativeToolTip": "Task 19\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:10:52.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fefeu\\source\\AtividadesCSharp\\Lista 1\\Task 18\\Program.cs",
+              "RelativeDocumentMoniker": "Task 18\\Program.cs",
+              "ToolTip": "C:\\Users\\fefeu\\source\\AtividadesCSharp\\Lista 1\\Task 18\\Program.cs",
+              "RelativeToolTip": "Task 18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:10:17.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
