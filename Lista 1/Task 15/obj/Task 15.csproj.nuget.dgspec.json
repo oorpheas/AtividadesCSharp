@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fefeu\\source\\AtividadesCSharp\\Lista 1\\Task 15\\Task 15.csproj": {}
+    "C:\\Users\\RafaelSoares\\Documents\\GitHub\\AtividadesCSharp\\Lista 1\\Task 15\\Task 15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fefeu\\source\\AtividadesCSharp\\Lista 1\\Task 15\\Task 15.csproj": {
+    "C:\\Users\\RafaelSoares\\Documents\\GitHub\\AtividadesCSharp\\Lista 1\\Task 15\\Task 15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fefeu\\source\\AtividadesCSharp\\Lista 1\\Task 15\\Task 15.csproj",
+        "projectUniqueName": "C:\\Users\\RafaelSoares\\Documents\\GitHub\\AtividadesCSharp\\Lista 1\\Task 15\\Task 15.csproj",
         "projectName": "Task 15",
-        "projectPath": "C:\\Users\\fefeu\\source\\AtividadesCSharp\\Lista 1\\Task 15\\Task 15.csproj",
-        "packagesPath": "C:\\Users\\fefeu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fefeu\\source\\AtividadesCSharp\\Lista 1\\Task 15\\obj\\",
+        "projectPath": "C:\\Users\\RafaelSoares\\Documents\\GitHub\\AtividadesCSharp\\Lista 1\\Task 15\\Task 15.csproj",
+        "packagesPath": "C:\\Users\\RafaelSoares\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RafaelSoares\\Documents\\GitHub\\AtividadesCSharp\\Lista 1\\Task 15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fefeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RafaelSoares\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
