@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Torre de Hanoi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TorredeHanoiAlt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09efd49c02e48ec4a727c99482654409b515d4ab")]
-[assembly: System.Reflection.AssemblyProductAttribute("Torre de Hanoi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Torre de Hanoi")]
+[assembly: System.Reflection.AssemblyProductAttribute("TorredeHanoiAlt")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TorredeHanoiAlt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

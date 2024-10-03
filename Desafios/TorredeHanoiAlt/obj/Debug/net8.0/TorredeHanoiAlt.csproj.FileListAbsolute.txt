@@ -1,0 +1,15 @@
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\bin\Debug\net8.0\TorredeHanoiAlt.exe
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\bin\Debug\net8.0\TorredeHanoiAlt.deps.json
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\bin\Debug\net8.0\TorredeHanoiAlt.runtimeconfig.json
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\bin\Debug\net8.0\TorredeHanoiAlt.dll
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\bin\Debug\net8.0\TorredeHanoiAlt.pdb
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\obj\Debug\net8.0\TorredeHanoiAlt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\obj\Debug\net8.0\TorredeHanoiAlt.AssemblyInfoInputs.cache
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\obj\Debug\net8.0\TorredeHanoiAlt.AssemblyInfo.cs
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\obj\Debug\net8.0\TorredeHanoiAlt.csproj.CoreCompileInputs.cache
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\obj\Debug\net8.0\TorredeHanoiAlt.sourcelink.json
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\obj\Debug\net8.0\TorredeHanoiAlt.dll
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\obj\Debug\net8.0\refint\TorredeHanoiAlt.dll
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\obj\Debug\net8.0\TorredeHanoiAlt.pdb
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\obj\Debug\net8.0\TorredeHanoiAlt.genruntimeconfig.cache
+C:\Users\RafaelSoares\Documents\GitHub\AtividadesCSharp\Desafios\TorredeHanoiAlt\obj\Debug\net8.0\ref\TorredeHanoiAlt.dll

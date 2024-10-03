@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torre de Hanoi", "Torre de Hanoi\Torre de Hanoi.csproj", "{B1A323BD-BD2B-4735-ACC2-C362BF4BA123}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torre de Hanoi", "Torre de Hanoi\Torre de Hanoi.csproj", "{B1A323BD-BD2B-4735-ACC2-C362BF4BA123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorredeHanoiAlt", "TorredeHanoiAlt\TorredeHanoiAlt.csproj", "{430A2258-FC2E-47C6-8409-94B6373E6314}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B1A323BD-BD2B-4735-ACC2-C362BF4BA123}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1A323BD-BD2B-4735-ACC2-C362BF4BA123}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1A323BD-BD2B-4735-ACC2-C362BF4BA123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{430A2258-FC2E-47C6-8409-94B6373E6314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430A2258-FC2E-47C6-8409-94B6373E6314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430A2258-FC2E-47C6-8409-94B6373E6314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430A2258-FC2E-47C6-8409-94B6373E6314}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
